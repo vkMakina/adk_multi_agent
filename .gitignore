@@ -28,3 +28,4 @@ Thumbs.db
 # VSCode settings
 .vscode/
 
+multi_agent_system/my_agent_data.db
